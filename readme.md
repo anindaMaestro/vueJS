@@ -1,18 +1,18 @@
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/1.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/1.PNG)
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/2.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/2.PNG)
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/3.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/3.PNG)
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/4.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/4.PNG)
 
 - getting started with Vue CLI, `https://cli.vuejs.org/#getting-started`
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/5.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/5.PNG)
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/6.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/6.PNG)
 
-![fundamentals of VueJS](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/7.PNG)
+![fundamentals of VueJS](https://github.com/anindaMaestro/vueJS/blob/main/7.PNG)
 
 
 - `html ready to used`
@@ -114,21 +114,21 @@ display: flex;
         margin: 2px 0px;
 ```
 
-![App.vue](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/10.PNG)
+![App.vue](https://github.com/anindaMaestro/vueJS/blob/main/10.PNG)
 
-![App.vue](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/11.PNG)
+![App.vue](https://github.com/anindaMaestro/vueJS/blob/main/11.PNG)
 
-![App.vue](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/12.PNG)
+![App.vue](https://github.com/anindaMaestro/vueJS/blob/main/12.PNG)
 
-![App.vue](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/13.PNG)
+![App.vue](https://github.com/anindaMaestro/vueJS/blob/main/13.PNG)
 
 
 - we have an error now
-![error](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/8.PNG)
+![error](https://github.com/anindaMaestro/vueJS/blob/main/8.PNG)
 
 - got back to the basics, and `Vue` is at a state now, where `Header.vue` has not been introduced.
 
-![error_fixed](https://github.com/anindameister/VueJSMission1stPage/blob/main/photos/9.PNG)
+![error_fixed](https://github.com/anindaMaestro/vueJS/blob/main/9.PNG)
 
 
 
